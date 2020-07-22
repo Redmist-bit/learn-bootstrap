@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(248, 249, 250);
+}
+.jumbotron{
+    background-image: url(https://pizzahut.co.id/images/banner/PHI-TripleMeatLovers-WebHomeBanner-1140x425px-rev1.jpg);
+    background-size: cover;
+    height: 250px;
+}
+.carousel-item{
+    height: 690px;
+}
